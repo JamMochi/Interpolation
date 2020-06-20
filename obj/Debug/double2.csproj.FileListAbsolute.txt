@@ -1,0 +1,10 @@
+C:\Users\bolob\source\repos\double2\bin\Debug\double2.exe.config
+C:\Users\bolob\source\repos\double2\bin\Debug\double2.exe
+C:\Users\bolob\source\repos\double2\bin\Debug\double2.pdb
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.csprojAssemblyReference.cache
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.Form1.resources
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.Double_Scale.resources
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.Properties.Resources.resources
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.csproj.GenerateResource.cache
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.exe
+C:\Users\bolob\source\repos\double2\obj\Debug\double2.pdb
